@@ -8,7 +8,7 @@ Hi, are you all Hotline Bling'd out? Same. Here's a Chrome extension that replac
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  
+In Chrome, click Window > Extensions.  
 Drag hotline-smooth.crx into the page that appears.
 
 Screenshots
@@ -20,6 +20,10 @@ Screenshots
 ![image](ex/rollingstone.png)
 
 ![image](ex/verge.png)
+
+![image](ex/billboard.png)
+
+![image](ex/complex.png)
 
 
 
