@@ -13,17 +13,17 @@ Drag hotline-smooth.crx into the page that appears.
 
 Screenshots
 -----------
-![image](ex/google.png)
+![image](examples/google.png)
 
-![image](ex/applemusic.png)
+![image](examples/applemusic.png)
 
-![image](ex/rollingstone.png)
+![image](examples/rollingstone.png)
 
-![image](ex/verge.png)
+![image](examples/verge.png)
 
-![image](ex/billboard.png)
+![image](examples/billboard.png)
 
-![image](ex/complex.png)
+![image](examples/complex.png)
 
 
 
